@@ -25,7 +25,7 @@ While the GNSS and IMU files contain the full set of sensed data, the LiDAR file
 To clone the project, run the following command:
 
 ```bash
-$ git clone https://github.com/aleixsegura/TFG-Apple3D
+$ git clone https://github.com/GRAP-UdL-AT/MTLS_point_cloud_generation_imu
 ```
 
 ## Python (main) version
